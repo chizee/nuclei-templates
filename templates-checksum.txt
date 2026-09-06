@@ -9665,6 +9665,7 @@ http/misconfiguration/mybb-full-path-disclosure.yaml:ddcd8ef542edfc868f1c4aafb57
 http/misconfiguration/mysql-history.yaml:ed7edad6396911e7758684fe438f9ea8ef172cfa
 http/misconfiguration/mysqld-exporter-metrics.yaml:c89ff72d161629ef8182ad64ecd5204c4e218cfd
 http/misconfiguration/nacos/nacos-create-user.yaml:ea79a34947b1d0ed958c324879efc13b3c073628
+http/misconfiguration/nacos/nacos-v3-auth-scope-bypass.yaml:b1e5422a48765b62a9259d1923a3e596c06d7690
 http/misconfiguration/nacos-authentication-bypass.yaml:ffc087529f5ce1c3f33cd9e2b537a4f17c784790
 http/misconfiguration/namedprocess-exporter-metrics.yaml:36442732c2f684c0ff458de661529e95f4a7d8c9
 http/misconfiguration/netalertx-dashboard.yaml:73fac2cc78008f96b7c987a3c98ee10292c04cf2
@@ -13809,7 +13810,7 @@ ssl/tls-version.yaml:396e167fe4dc47cc31a3823287f767ac4ba3ed6d
 ssl/untrusted-root-certificate.yaml:bc78917f6ed97df44ec66fd168e6d3d51f2050a9
 ssl/weak-cipher-suites.yaml:a2c5b71896965bcbb458e1d2a5bcf54981301156
 ssl/wildcard-tls.yaml:93487bb9d9c28bf84ae1928887b0dafef67b4117
-templates-checksum.txt:62b2fa0893e9f8f1d7756370f3c4aee5339f9151
+templates-checksum.txt:e3937c6a53079cea5c89ffe6d3999189a09bc8fd
 workflows/74cms-workflow.yaml:bb010e767ad32b906153e36ea618be545b4e22d0
 workflows/acrolinx-workflow.yaml:8434089bb55dec3d7b2ebc6a6f340e73382dd0c4
 workflows/activemq-workflow.yaml:20eb2f6dea0ca25d1bd556b5a63e5f25686f2376
