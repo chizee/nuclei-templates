@@ -112,3 +112,4 @@ http:
       - type: dsl
         dsl:
           - '"username:" + randuser + ":password:" + randpass'
+# digest: 490a00463044022011645bcf08b545d2c775f66ef5d71d3dfd74eb9746c1e74392c13076d730ff32022007034dec11d7da519c73a41f35ede8ab1c42c3433e9a1ca3147d016bd0fdc8e3:922c64590222798bb761d5b6d8e72950
