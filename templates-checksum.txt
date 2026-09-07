@@ -978,8 +978,8 @@ code/windows/enumeration/unquoted-service-paths.yaml:2663d300b15940f45ad54d0e731
 code/windows/enumeration/weak-service-binary-permissions.yaml:8780198c798f69ccf2a8ae801d53f558f1909e8c
 code/windows/get-stored-credentials-cmdkey.yaml:0355b4ae1b0a1fdac60cea737538510bdebe6382
 contributors.json:7dd6e8314e6d42d24b17f9c5acde7b8029f5f4f5
-cves.json:d7f6706a40f9409155728ed26696f8ccc703f3f1
-cves.json-checksum.txt:f7834fa2c2f187105c3d97a9241ec60df8faf3ac
+cves.json:36f37ee7fedeb2aa38db36534418664f54c0a181
+cves.json-checksum.txt:ac8a8fc4c50d7b4cf00d8e319733c0a9337b5381
 dast/ai/ai-code-execution.yaml:22499b9349751bc0841e3c87a9ad36f17d98c565
 dast/ai/ai-data-exfiltration.yaml:7c3b8514ff64b5ba6737ee77bf3c71a074e9540c
 dast/ai/ai-prompt-injection.yaml:509eeec9e6458911087a2f93e2358a4b5e285429
@@ -6087,6 +6087,7 @@ http/cves/2026/CVE-2026-23486.yaml:3dbe49728a3d671cd0c4fc058d3ba9d619225b2e
 http/cves/2026/CVE-2026-23491.yaml:09c580ba444080056cc0e4fa7106962013e28782
 http/cves/2026/CVE-2026-23536.yaml:ee28d73a1022f3843ea478764ab436914ab300ae
 http/cves/2026/CVE-2026-23550.yaml:ecbc119a52cb0b460a3f65654c3bcf9e6b3cb5df
+http/cves/2026/CVE-2026-23693.yaml:5332f093333ec0fb719369b6a3daf3188bf94af3
 http/cves/2026/CVE-2026-23696.yaml:e823ac407dd1fb55b785f6fc29cbc9fdd588220e
 http/cves/2026/CVE-2026-23744.yaml:d7b0984f585f1cd1744fe0ba51822c4a9fc60444
 http/cves/2026/CVE-2026-23760.yaml:87e2b986b64173c52768a05aec2a5f6e6961dd09
@@ -13810,7 +13811,7 @@ ssl/tls-version.yaml:396e167fe4dc47cc31a3823287f767ac4ba3ed6d
 ssl/untrusted-root-certificate.yaml:bc78917f6ed97df44ec66fd168e6d3d51f2050a9
 ssl/weak-cipher-suites.yaml:a2c5b71896965bcbb458e1d2a5bcf54981301156
 ssl/wildcard-tls.yaml:93487bb9d9c28bf84ae1928887b0dafef67b4117
-templates-checksum.txt:e3937c6a53079cea5c89ffe6d3999189a09bc8fd
+templates-checksum.txt:cc1c6b3039a3e9dad369ccb5e4fbed25ec7e8b72
 workflows/74cms-workflow.yaml:bb010e767ad32b906153e36ea618be545b4e22d0
 workflows/acrolinx-workflow.yaml:8434089bb55dec3d7b2ebc6a6f340e73382dd0c4
 workflows/activemq-workflow.yaml:20eb2f6dea0ca25d1bd556b5a63e5f25686f2376
